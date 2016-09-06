@@ -8,13 +8,13 @@ theme_settings:
   title: Helen Xiaoqin Yi
   avatar: helen.jpg
   gravatar: # Email MD5 hash
-  description: "Hi I am Helen, a Chinese girl who can cook amazing noodles and code" # used by search engines
+  description: "Hi I am Helen, I love cooking noodles and code" # used by search engines
 
   # Header and footer text
   header_text: >
      <p>Hi I am Helen, a Chinese girl who can cook amazing noodles and code.</p>
 
-     <p>"どうぞよろしくお愿いいたします"</p>
+     <p>"When You Cease to Learn, You Cease to Live"</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
