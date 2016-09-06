@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://helenhoffman.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Helen Xiaoqin Yi
+  avatar: helen.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Hi I am Helen, a Chinese girl who can cook amazing noodles and code" # used by search engines
 
   # Header and footer text
   header_text: >
