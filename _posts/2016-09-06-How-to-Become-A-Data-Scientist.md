@@ -1,3 +1,7 @@
+---
+layout: post
+title: How to Become A Data Scientist
+---
 
 The Word Data Scentist has been over used. From my understanding, a data scientist can be defined as:
 
@@ -7,4 +11,6 @@ The Word Data Scentist has been over used. From my understanding, a data scienti
 
 3. He should know how to get/collect data, clearance, intergrate, process, program...
 
-4. Finally, to become a data scientist, you need to prepare to learn all you life all the time. 
+4. Throughly understand the business you are conducting.
+
+5. Finally, to become a data scientist, you need to prepare to learn all you life all the time. 
