@@ -33,7 +33,7 @@ Imagination: Example from text book:
 
 Here is the formula: 
 
-Z = (P-P_c)/√((P(1-P))/N  + (P_c (1-P_c))/N_c )
+$$Z = frac{P-P_c}{√((P(1-P))/N  + (P_c (1-P_c))/N_c }$$
 
 Find 200 companies, send different offers, and use hypothesis test formula to see how significant the result is, then decide which pricing model is better.  Job done and everything is perfect!
 
