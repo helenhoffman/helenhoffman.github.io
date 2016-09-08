@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Become A Data Scientist
+title: Become A Qualified Data Scientist Never Easy
 ---
 
 The Word Data Scentist has been over used. From my understanding, a data scientist can be defined as:
@@ -11,6 +11,6 @@ The Word Data Scentist has been over used. From my understanding, a data scienti
 
 3. He should know how to get/collect data, clearance, intergrate, process, program...
 
-4. Throughly understand the business you are conducting.
+4. Throughly understand the business you are conducting, which includes: what's your business about?
 
 5. Finally, to become a data scientist, you need to prepare to learn all you life all the time. 
