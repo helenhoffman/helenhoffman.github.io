@@ -14,18 +14,6 @@ Eighteen months ago, I used weighted scorecard to identify which school is the b
 
 I enjoy the time learning from all my brilliant professors and classmates. We learned many analytical skills/methodology/tools, including R, SAS, SQL, SPSS, Hadoop, Python, Tableau, Matleb, Statistics, Algorithm, Multivariate Analysis, Regression, Data Mining, Molding, Visualization, etc. Most importantly, we are encouraged to keep on exploring. For example, before starting this program, I didn’t even know there is something like PCA and Simplex Method ever exist in the world. I neither know what is model and how to choose appropriate models. But now I have a deeper understanding of the analytical world. It throws reality a light by opening an access to the huge colorful universe. Cease to study, you cease to live. Skills, Perseverance and Exploration are three most important spirits I acquired from Drexel.
 
-The Word Data Scentist has been over used. From my understanding, a data scientist can be defined as:
-
-1. He should be an expert in Statistics (ie.Applied Regression, Multivariate analysis...), Modeling, Data Mining, Professional Tools/Language (ie. SAS, R, Python, Hadoop, SQL, Weka, Matlab,SPSS...), Data Visualization (Tableau, SAS...)
-
-2.Big Volumn of Data. Data Scientist usually processes gig bite of data. Excel can hardly handle that huge volumn.
-
-3. He should know how to get/collect data, clearance, intergrate, process, program...
-
-4. Finally, to become a data scientist, you need to prepare to learn all you life all the time.  
-
-
-
 Now I am leading 3 lead gen projects during my internship. I feel exited when I learn how an industry generates profit; how a company grows by making business scalable and automatic; how to conduct A/B Test; where are the problems when a platform started to shrink; how to start increasing audiences and registration number by optimizing content; what audiences like to read and what/when/how frequent to push whitepapers/reports according to their preference… Those are amazing experience to have.
 
 I will be graduating on December, and I feel confident in my skills that I learned from Graduate School, especially after participated in those important projects during internship, I am ready to welcome challenges from industry, and help more companies moving forwards driven by data analytics.
