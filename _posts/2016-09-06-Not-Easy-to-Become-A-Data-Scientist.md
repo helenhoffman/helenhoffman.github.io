@@ -33,7 +33,7 @@ Imagination: Example from text book:
 
 Here is the formula: 
 
-$$Z = \frac{P-P_c}{√(\frac{P(1-P)}{N}  + \frac{P_c (1-P_c)}{N_c}}$$
+$$Z = \frac{P-P_c}{√(\frac{P \times (1-P)}{N}  + \frac{P_c \times (1-P_c)}{N_c}}$$
 
 $$S_n = a \times \frac{1-r^n}{1-r}$$
 
