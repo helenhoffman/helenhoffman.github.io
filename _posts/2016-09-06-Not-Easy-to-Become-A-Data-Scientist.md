@@ -16,7 +16,7 @@ What’s your business about?
 How to generate profit? 
 What are the penchants/habits of your customers/competitors/partners/distributors? 
 
-This process is always been ignored by many data scientists/analysts. They believe they have enough skills at coding and statistics. Unfortunately, because of lacking the understanding of their business, they cannot even design a decent experiment.
+This process is always been ignored by many data scientists/analysts. They believe they have enough skills at coding and statistics. Unfortunately, because of lacking the understanding of their business, they cannot even design a decent experiment. Say nothing about identifying confounders.
 
 I recently read an example on Statistics (3rd Ed, by David Freedman, Robert Pisani, Roger Purves) about how NFIP study was biased against the vaccine. Experiment designers obviously ignored many effects of control group, and made the results of experiment less convincing. 
 
@@ -24,7 +24,8 @@ People might say: you don’t need to understand everything about your business 
 Data Scientist: “Our experiment failed because we ignored the factor that actions of readers using different devices are totally different.  Hey Jim, why didn’t you tell me that before we conduct the experiment? “
 Jim: “You designed the experiment, but you didn’t ask me the influences of devices, how can I tell you something you didn’t ask? And how did I know whether you realized it would become a potential problem? ”
 
- Another problem is: under many situations, experiments failed for reasons unknown.
+
+Another problem is: under many situations, experiments failed for reasons unknown.
 An example is doing A/B tests before officially release a marketing plan/pricing strategy. It can also test are your website campaign pages effective.  
 
 A B2B eCommerce company decided to expend their business by inviting more websites join their promotion alliance. “Put your products on our website for free, we sell you back the registered information or leads”. But they don’t know which pricing model to use: 1. First 5 pieces of information with 20% discount, 2. No discount.  So they decided to make A/B test. 
